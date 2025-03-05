@@ -1,4 +1,4 @@
-# nature template webpage
+# Love nature
 
 <p>This is a great love nature theme that is designed with tailwindcss framework. Hope you enjoy</p>
 
